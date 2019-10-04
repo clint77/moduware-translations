@@ -1,0 +1,131 @@
+{
+  "my-app": {
+    "moduware-header": {
+      "edit": "Edit",
+      "copy": "Debug information copied to your clipboard"
+    },
+    "morph-tabbar-item": {
+      "dashboard": "Dashboard",
+      "settings": "Settings"
+    }
+
+  },
+
+  "dashboard": {
+
+    "header": {
+      "edit": "Edit Device",
+      "notConnected": "Not Connected"
+    },
+
+    "disconnected": {
+      "title": "Slide left!",
+      "message": "Let's connect your Moduware device to your phone! To manage connections and devices use sidebar.",
+      "button": "Find Device"
+    },
+
+    "connecting": {
+      "title": "Connecting",
+      "message": "Connecting to your device."
+    },
+
+    "autoconnecting": {
+      "title": "Auto Connecting",
+      "message": "Connecting to your device. You can manage paired devices in settings."
+    },
+
+    "connected": {
+      "editInstructions": "To switch between tiles tap on the module you want to change."
+    },
+
+    "initializing": {
+      "title": "Initializing modules",
+      "message": "It will take a few seconds to initialize all modules."
+    }
+  },
+
+  "settings": {
+
+    "header": {
+      "title": "Settings"
+    },
+
+    "updates": {
+      "title": "Updates",
+      "item": "Updates"
+    },
+
+    "general": {
+      "title": "General",
+      "item": "Paired Devices"
+    },
+
+    "support": {
+      "title": "Support",
+      "item": "Submit Feedback"
+    },
+
+    "about": {
+      "title": "About",
+      "debug": "Debug",
+      "licenses": "Licenses",
+      "privacy": "Privacy Policy"
+    }
+  },
+
+  "updates": {
+    "checking": {
+      "title": "Checking for updates",
+      "message": "It will take a few seconds to check for new updates."
+    },
+    "pending": "Pending",
+    "noUpdates": {
+      "title": "No new updates available",
+      "message": "You have latest version of software for current configuration"
+    }
+  },
+
+  "pairedDevices": {
+    "title": "Paired Devices"
+  },
+
+  "tiles": {
+    "title": "Available tiles",
+    "instruction": "Select a tile you want to switch to."
+  },
+
+  "drawer": {
+    "autoConnecting": {
+      "title": "Auto Connecting",
+      "message": "Connecting to your device. You can manage paired devices in settings."
+    },
+
+    "disconnected": {
+      "title": "Connect Modpack",
+      "message": "Find the device you want to connect to"
+    },
+
+    "scanning": {
+      "title": "Looking for Modpack",
+      "message": "Make sure your bluetooth and Modpack are On"
+    },
+
+    "notFound": {
+      "title": "Device not found",
+      "message": "Try again and make sure that your Modpack is On"
+    },
+
+    "connected": {
+      "title": "Connected to",
+      "buttonEdit": "edit",
+      "buttonDisconnect": "Disconnect"
+    },
+
+    "button": {
+      "initial": "Find Device",
+      "scanning": "Looking for Device",
+      "stopped": "Try again"
+    }
+  }
+
+}
