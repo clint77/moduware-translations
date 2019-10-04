@@ -1,12 +1,12 @@
 {
   "my-app": {
     "moduware-header": {
-      "edit": "Edit",
-      "copy": "Debug information copied to your clipboard"
+      "edit": "Edit (to chinese)",
+      "copy": "Debug information copied to your clipboard (to chinese)"
     },
     "morph-tabbar-item": {
-      "dashboard": "Dashboard",
-      "settings": "Settings"
+      "dashboard": "Dashboard (to chinese)",
+      "settings": "Settings (to chinese)"
     }
 
   },
@@ -14,117 +14,117 @@
   "dashboard": {
 
     "header": {
-      "edit": "Edit Device",
-      "notConnected": "Not Connected"
+      "edit": "Edit Device (to chinese)",
+      "notConnected": "Not Connected (to chinese)"
     },
 
     "disconnected": {
-      "title": "Slide left!",
-      "message": "Let's connect your Moduware device to your phone! To manage connections and devices use sidebar.",
+      "title": "Slide left! (to chinese)",
+      "message": "Let's connect your Moduware device to your phone! To manage connections and devices use sidebar. (to chinese)",
       "button": "Find Device"
     },
 
     "connecting": {
-      "title": "Connecting",
-      "message": "Connecting to your device."
+      "title": "Connecting (to chinese)",
+      "message": "Connecting to your device. (to chinese)"
     },
 
     "autoconnecting": {
-      "title": "Auto Connecting",
-      "message": "Connecting to your device. You can manage paired devices in settings."
+      "title": "Auto Connecting (to chinese)",
+      "message": "Connecting to your device. You can manage paired devices in settings. (to chinese)"
     },
 
     "connected": {
-      "editInstructions": "To switch between tiles tap on the module you want to change."
+      "editInstructions": "To switch between tiles tap on the module you want to change. (to chinese)"
     },
 
     "initializing": {
-      "title": "Initializing modules",
-      "message": "It will take a few seconds to initialize all modules."
+      "title": "Initializing modules (to chinese)",
+      "message": "It will take a few seconds to initialize all modules. (to chinese)"
     }
   },
 
   "settings": {
 
     "header": {
-      "title": "Settings"
+      "title": "Settings (to chinese)"
     },
 
     "updates": {
-      "title": "Updates",
-      "item": "Updates"
+      "title": "Updates (to chinese)",
+      "item": "Updates (to chinese)"
     },
 
     "general": {
-      "title": "General",
-      "item": "Paired Devices"
+      "title": "General (to chinese)",
+      "item": "Paired Devices (to chinese)"
     },
 
     "support": {
-      "title": "Support",
-      "item": "Submit Feedback"
+      "title": "Support (to chinese)",
+      "item": "Submit Feedback (to chinese)"
     },
 
     "about": {
-      "title": "About",
-      "debug": "Debug",
-      "licenses": "Licenses",
-      "privacy": "Privacy Policy"
+      "title": "About (to chinese)",
+      "debug": "Debug (to chinese)",
+      "licenses": "Licenses (to chinese)",
+      "privacy": "Privacy Policy (to chinese)"
     }
   },
 
   "updates": {
     "checking": {
-      "title": "Checking for updates",
-      "message": "It will take a few seconds to check for new updates."
+      "title": "Checking for updates (to chinese)",
+      "message": "It will take a few seconds to check for new updates. (to chinese)"
     },
-    "pending": "Pending",
+    "pending": "Pending (to chinese)",
     "noUpdates": {
-      "title": "No new updates available",
-      "message": "You have latest version of software for current configuration"
+      "title": "No new updates available (to chinese)",
+      "message": "You have latest version of software for current configuration (to chinese)"
     }
   },
 
   "pairedDevices": {
-    "title": "Paired Devices"
+    "title": "Paired Devices (to chinese)"
   },
 
   "tiles": {
-    "title": "Available tiles",
-    "instruction": "Select a tile you want to switch to."
+    "title": "Available tiles (to chinese)",
+    "instruction": "Select a tile you want to switch to. (to chinese)"
   },
 
   "drawer": {
     "autoConnecting": {
-      "title": "Auto Connecting",
-      "message": "Connecting to your device. You can manage paired devices in settings."
+      "title": "Auto Connecting (to chinese)",
+      "message": "Connecting to your device. You can manage paired devices in settings. (to chinese)"
     },
 
     "disconnected": {
-      "title": "Connect Modpack",
-      "message": "Find the device you want to connect to"
+      "title": "Connect Modpack (to chinese)",
+      "message": "Find the device you want to connect to (to chinese)"
     },
 
     "scanning": {
-      "title": "Looking for Modpack",
-      "message": "Make sure your bluetooth and Modpack are On"
+      "title": "Looking for Modpack (to chinese)",
+      "message": "Make sure your bluetooth and Modpack are On (to chinese)"
     },
 
     "notFound": {
-      "title": "Device not found",
-      "message": "Try again and make sure that your Modpack is On"
+      "title": "Device not found (to chinese)",
+      "message": "Try again and make sure that your Modpack is On (to chinese)"
     },
 
     "connected": {
-      "title": "Connected to",
-      "buttonEdit": "edit",
-      "buttonDisconnect": "Disconnect"
+      "title": "Connected to (to chinese)",
+      "buttonEdit": "edit (to chinese)",
+      "buttonDisconnect": "Disconnect (to chinese)"
     },
 
     "button": {
-      "initial": "Find Device",
-      "scanning": "Looking for Device",
-      "stopped": "Try again"
+      "initial": "Find Device (to chinese)",
+      "scanning": "Looking for Device (to chinese)",
+      "stopped": "Try again (to chinese)"
     }
   }
 
