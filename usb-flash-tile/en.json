@@ -1,0 +1,12 @@
+{
+  "main": {
+    "message": "Connect to module and explore files with Android File Manager",
+    "button": {
+      "connect": "Connect",
+      "connecting": "Connecting",
+      "disconnect": "Disconnect",
+      "disconnecting": "Disconnecting"
+
+    }
+  }
+}
