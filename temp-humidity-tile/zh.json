@@ -1,0 +1,63 @@
+{
+  "slide": {
+    "instruction": {
+      "ambient": "When measuring ambient temperature, place the device away form extraneous influences and allow it to stabilise. (Chinese)",
+      "important": "IMPORTANT:Don't use module as a thermometer (Chinese)",
+      "object": "When measuring the temperature of an object, don't disconnect the module. Simply place the temperature sensor up against the intended object. (Chinese)"
+    },
+    "button": {
+      "next": "Next (Chinese)",
+      "gotIt": "Got it! (Chinese)"
+    },
+    "noShow": "Don't show again (Chinese)"
+  },
+
+  "main": {
+    "humidity": "Humidity (Chinese)",
+    "temperature": "Temperature (Chinese)",
+    "button": {
+      "save": "Save (Chinese)"
+    }
+  },
+
+  "snapshot": {
+    "label": "Add label (Chinese)",
+    "temperature": "Temperature (Chinese)",
+    "humidity": "Humidity (Chinese)",
+    "button": {
+      "cancel": "Cancel (Chinese)",
+      "save": "Save (Chinese)"
+    }
+  },
+
+  "history": {
+    "placeholder": {
+      "title": "No save measurements yet... (Chinese)",
+      "message": "Timeline will display the history of your measurements (Chinese)"
+    },
+    "list": {
+      "temperature": "Temperature (Chinese)",
+      "humidity": "Humidity (Chinese)",
+      "today": "Today (Chinese)",
+      "yesterday": "Yesterday (Chinese)",
+      "delete": "Delete (Chinese)"
+    }
+  },
+
+  "settings": {
+    "general": {
+      "title": "General (Chinese)",
+      "message": "Show instruction (Chinese)"
+    },
+    "measure": {
+      "title": "Measure (Chinese)",
+      "ambient": "Ambient temperature (Chinese)",
+      "object": "Object temperature (Chinese)"
+    },
+    "units": {
+      "title": "Units (Chinese)",
+      "celcius": "Celcius (Chinese)",
+      "fahrenheit": "Fahrenheit (Chinese)"
+    }
+  }
+}

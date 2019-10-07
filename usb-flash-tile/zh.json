@@ -1,0 +1,12 @@
+{
+  "main": {
+    "message": "Connect to module and explore files with Android File Manager (Chinese)",
+    "button": {
+      "connect": "Connect (Chinese)",
+      "connecting": "Connecting (Chinese)",
+      "disconnect": "Disconnect (Chinese)",
+      "disconnecting": "Disconnecting (Chinese)"
+
+    }
+  }
+}

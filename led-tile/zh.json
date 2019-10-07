@@ -1,0 +1,35 @@
+{
+  "main": {
+    "modes": "Modes (Chinese)",
+    "pallet": {
+      "title": "Simple Pallet (Chinese)",
+      "description": "5 simple colors to chose (Chinese)"
+    },
+    "wheel": {
+      "title": "Color wheel (Chinese)",
+      "description": "Pick your own color (Chinese)"
+    },
+    "themes": {
+      "title": "title (Chinese)",
+      "description": "Preset light moods (Chinese)"
+    }
+  },
+
+  "color": {
+    "brightness": {
+      "darker": "Darker (Chinese)",
+      "lighter": "Lighter (Chinese)"
+    }
+  },
+
+  "themes": {
+    "candle": "Candle flicker (Chinese)",
+    "romance": "Romance (Chinese)",
+    "meditation": "Meditation (Chinese)",
+    "sos": "SOS (Chinese)",
+    "study": "Study (Chinese)",
+    "disco": "Disco (Chinese)",
+    "strobe": "Strobe (Chinese)",
+    "police": "Police (Chinese)"
+  }
+}
