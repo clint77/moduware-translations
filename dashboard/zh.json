@@ -1,12 +1,12 @@
 {
   "my-app": {
     "moduware-header": {
-      "edit": "Edit (to chinese)",
-      "copy": "Debug information copied to your clipboard (to chinese)"
+      "edit": "编辑",
+      "copy": "调试信息已复制到剪贴板"
     },
     "morph-tabbar-item": {
-      "dashboard": "Dashboard (to chinese)",
-      "settings": "Settings (to chinese)"
+      "dashboard": "仪表盘",
+      "settings": "设置"
     }
 
   },
@@ -14,117 +14,117 @@
   "dashboard": {
 
     "header": {
-      "edit": "Edit Device (to chinese)",
-      "notConnected": "Not Connected (to chinese)"
+      "edit": "编辑设备",
+      "notConnected": "未连接"
     },
 
     "disconnected": {
-      "title": "Slide left! (to chinese)",
-      "message": "Let's connect your Moduware device to your phone! To manage connections and devices use sidebar. (to chinese)",
-      "button": "Find Device"
+      "title": "向左滑动!",
+      "message": "让我们将您的Moduware设备连接到手机！ 要管理连接和设备，请使用边侧栏。",
+      "button": "查找设备"
     },
 
     "connecting": {
-      "title": "Connecting (to chinese)",
-      "message": "Connecting to your device. (to chinese)"
+      "title": "连接",
+      "message": "连接到您的设备"
     },
 
     "autoconnecting": {
-      "title": "Auto Connecting (to chinese)",
-      "message": "Connecting to your device. You can manage paired devices in settings. (to chinese)"
+      "title": "自动连接",
+      "message": "连接到您的设备。 您可以在设置中管理配对的设备。"
     },
 
     "connected": {
-      "editInstructions": "To switch between tiles tap on the module you want to change. (to chinese)"
+      "editInstructions": "想要切换不同的Tile, 请点击对应的模块。"
     },
 
     "initializing": {
-      "title": "Initializing modules (to chinese)",
-      "message": "It will take a few seconds to initialize all modules. (to chinese)"
+      "title": "初始化模块",
+      "message": "初始化所有模块将花费几秒钟。"
     }
   },
 
   "settings": {
 
     "header": {
-      "title": "Settings (to chinese)"
+      "title": "设置"
     },
 
     "updates": {
-      "title": "Updates (to chinese)",
-      "item": "Updates (to chinese)"
+      "title": "更新",
+      "item": "更新"
     },
 
     "general": {
-      "title": "General (to chinese)",
-      "item": "Paired Devices (to chinese)"
+      "title": "通用",
+      "item": "已配对设备"
     },
 
     "support": {
-      "title": "Support (to chinese)",
-      "item": "Submit Feedback (to chinese)"
+      "title": "支持",
+      "item": "提交反馈"
     },
 
     "about": {
-      "title": "About (to chinese)",
-      "debug": "Debug (to chinese)",
-      "licenses": "Licenses (to chinese)",
-      "privacy": "Privacy Policy (to chinese)"
+      "title": "关于",
+      "debug": "调试",
+      "licenses": "许可",
+      "privacy": "隐私政策"
     }
   },
 
   "updates": {
     "checking": {
-      "title": "Checking for updates (to chinese)",
-      "message": "It will take a few seconds to check for new updates. (to chinese)"
+      "title": "检查更新",
+      "message": "检查新的更新将花费几秒钟。"
     },
-    "pending": "Pending (to chinese)",
+    "pending": "待定",
     "noUpdates": {
-      "title": "No new updates available (to chinese)",
-      "message": "You have latest version of software for current configuration (to chinese)"
+      "title": "没有可用的新的更新",
+      "message": "您已为当前配置安装了最新版本的软件"
     }
   },
 
   "pairedDevices": {
-    "title": "Paired Devices (to chinese)"
+    "title": "已配对设备"
   },
 
   "tiles": {
-    "title": "Available tiles (to chinese)",
-    "instruction": "Select a tile you want to switch to. (to chinese)"
+    "title": "可用的Tiles",
+    "instruction": "选择您要切换到的Tile。"
   },
 
   "drawer": {
     "autoConnecting": {
-      "title": "Auto Connecting (to chinese)",
-      "message": "Connecting to your device. You can manage paired devices in settings. (to chinese)"
+      "title": "自动连接",
+      "message": "连接到您的设备。 您可以在设置中管理配对的设备。"
     },
 
     "disconnected": {
-      "title": "Connect Modpack (to chinese)",
-      "message": "Find the device you want to connect to (to chinese)"
+      "title": "连接Modpack",
+      "message": "查找您要连接的设备"
     },
 
     "scanning": {
-      "title": "Looking for Modpack (to chinese)",
-      "message": "Make sure your bluetooth and Modpack are On (to chinese)"
+      "title": "寻找Modpack",
+      "message": "确保您的手机蓝牙和Modpack已打开"
     },
 
     "notFound": {
-      "title": "Device not found (to chinese)",
-      "message": "Try again and make sure that your Modpack is On (to chinese)"
+      "title": "没有找到设备",
+      "message": "请再试一次，确保您的Modpack已打开"
     },
 
     "connected": {
-      "title": "Connected to (to chinese)",
-      "buttonEdit": "edit (to chinese)",
-      "buttonDisconnect": "Disconnect (to chinese)"
+      "title": "连接到",
+      "buttonEdit": "编辑",
+      "buttonDisconnect": "断开连接"
     },
 
     "button": {
-      "initial": "Find Device (to chinese)",
-      "scanning": "Looking for Device (to chinese)",
-      "stopped": "Try again (to chinese)"
+      "initial": "查找设备",
+      "scanning": "正在寻找设备",
+      "stopped": "请再试一次"
     }
   }
 

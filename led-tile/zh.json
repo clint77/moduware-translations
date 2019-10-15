@@ -1,35 +1,35 @@
 {
   "main": {
-    "modes": "Modes (Chinese)",
+    "modes": "模式",
     "pallet": {
-      "title": "Simple Pallet (Chinese)",
-      "description": "5 simple colors to chose (Chinese)"
+      "title": "简易托盘",
+      "description": "5种简单的颜色可供选择"
     },
     "wheel": {
-      "title": "Color wheel (Chinese)",
-      "description": "Pick your own color (Chinese)"
+      "title": "颜色轮",
+      "description": "选择自己的颜色"
     },
     "themes": {
-      "title": "title (Chinese)",
-      "description": "Preset light moods (Chinese)"
+      "title": "主题",
+      "description": "预设氛围灯"
     }
   },
 
   "color": {
     "brightness": {
-      "darker": "Darker (Chinese)",
-      "lighter": "Lighter (Chinese)"
+      "darker": "更暗",
+      "lighter": "更亮"
     }
   },
 
   "themes": {
-    "candle": "Candle flicker (Chinese)",
-    "romance": "Romance (Chinese)",
-    "meditation": "Meditation (Chinese)",
-    "sos": "SOS (Chinese)",
-    "study": "Study (Chinese)",
-    "disco": "Disco (Chinese)",
-    "strobe": "Strobe (Chinese)",
-    "police": "Police (Chinese)"
+    "candle": "蜡烛闪烁",
+    "romance": "浪漫",
+    "meditation": "冥想",
+    "sos": "紧急求救",
+    "study": "学习",
+    "disco": "迪斯科",
+    "strobe": "频闪",
+    "police": "警灯"
   }
 }
