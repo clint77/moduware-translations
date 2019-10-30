@@ -82,16 +82,30 @@
     "noUpdates": {
       "title": "No new updates available",
       "message": "You have latest version of software for current configuration"
-    }
+    },
+    "updateError": "Update failed, please try again",
+    "checkInProgress": "a check for updates is already in progress"
   },
 
   "pairedDevices": {
-    "title": "Paired Devices"
+    "title": "Paired Devices",
+    "unpair": "Unpair",
+    "unpairError": "Error happened during unpairing from the device, try again"
   },
 
   "tiles": {
     "title": "Available tiles",
-    "instruction": "Select a tile you want to switch to."
+    "instruction": "Select a tile you want to switch to.",
+    "delete": "Delete",
+    "installing": "Installing...",
+    "changeSelectedTile": "Please change selected tile first",
+    "cannotDeleteDeveloperTile": "Cannot delete develop tile, to be able to delete it you have to remove the tile folder from device storge manually",
+    "somethingWentWrong": "something went wrong, please try again.",
+    "lookForInternetTile": "Looking for tile in the internet",
+    "couldNotGetInternetTiles": "Counldn't get internet tiles, check your internet connection and try again",
+    "loadingDeviceTile": "Loading tiles on your device",
+    "noFirmwareInstalled": "The module do not have firmware installed, please go to debug screen and click on restore stable firmware button for that module.",
+    "editLable": "Edit"
   },
 
   "drawer": {
