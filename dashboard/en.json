@@ -108,6 +108,11 @@
     "editLable": "Edit"
   },
 
+  "battery": {
+    "status": "Battery",
+    "charging": "Wall Charging"
+  },
+
   "drawer": {
     "autoConnecting": {
       "title": "Auto Connecting",
@@ -133,6 +138,10 @@
       "title": "Connected to",
       "buttonEdit": "edit",
       "buttonDisconnect": "Disconnect"
+    },
+
+    "devices": {
+      "title": "Devices around"
     },
 
     "button": {

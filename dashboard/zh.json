@@ -35,12 +35,12 @@
     },
 
     "connected": {
-      "editInstructions": "想要切换不同的Tile, 请点击对应的模块。"
+      "editInstructions": "想要切换不同的图块, 请点击对应的模块。"
     },
 
     "initializing": {
       "title": "初始化模块",
-      "message": "初始化所有模块将花费几秒钟。"
+      "message": "初始化所有模块需要几秒钟。"
     }
   },
 
@@ -75,7 +75,7 @@
 
   "updates": {
     "checking": {
-      "title": "检查更新",
+      "title": "正在检查更新",
       "message": "检查更新需要几秒钟。"
     },
     "pending": "待定",
@@ -108,10 +108,15 @@
     "editLable": "编辑"
   },
 
+  "battery": {
+    "status": "电池",
+    "charging": "正在充电"
+  },
+
   "drawer": {
     "autoConnecting": {
       "title": "自动连接",
-      "message": "连接到您的设备。 您可以在设置中管理配对的设备。"
+      "message": "正在连接到您的设备。您可以在设置中管理配对设备。"
     },
 
     "disconnected": {
@@ -121,18 +126,22 @@
 
     "scanning": {
       "title": "寻找Modpack",
-      "message": "确保您的手机蓝牙和Modpack已打开"
+      "message": "确保您的手机蓝牙和Modpack已开启"
     },
 
     "notFound": {
-      "title": "没有找到设备",
-      "message": "请再试一次，确保您的Modpack已打开"
+      "title": "找不到设备",
+      "message": "请再试一次，确保您的Modpack已开启"
     },
 
     "connected": {
-      "title": "连接到",
+      "title": "已连接到",
       "buttonEdit": "编辑",
       "buttonDisconnect": "断开连接"
+    },
+
+    "devices": {
+      "title": "周围的设备"
     },
 
     "button": {
