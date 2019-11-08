@@ -1,6 +1,6 @@
 {
   "main": {
-    "message": "连接模块并使用Android 文件管理器浏览文件",
+    "message": "连接模块并使用Android文件管理器浏览文件",
     "button": {
       "connect": "连接",
       "connecting": "正在连接",
