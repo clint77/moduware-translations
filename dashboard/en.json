@@ -10,7 +10,7 @@
     }
 
   },
-  
+
   "gateway": {
 		"connectionFailed": "Failed to establish connection, please try again",
 		"noFirmwareInstalled": "The connected Moduware device doesn't have a firmware installed, you can install it from Settings -> Updates",
