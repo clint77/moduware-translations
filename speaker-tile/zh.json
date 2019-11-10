@@ -1,14 +1,14 @@
 {
   "instructions": {
     "header": "重要说明",
-    "warning": "可能会存在一个问题。 在您第一次连接扬声器模块时，您的电话将重拨您的最后一个呼叫者。",
-    "connect": "要连接BT Speaker模块，请转到设置->蓝牙->然后配对Moduware BT Speaker",
-    "steps": "为确保这个问题不再发生, 请转到设置->连接->蓝牙，然后选择Moduware Speaker并关闭通话音频",
+    "warning": "可能会存在一个问题: 在您第一次连接扬声器模块时，您的电话将重拨最后一个呼出号码。",
+    "connect": "要连接扬声器模块，请转至 设置 -> 蓝牙 ，然后配对Moduware扬声器",
+    "steps": "为了确保此问题不再发生，请转至设置 -> 连接 -> 蓝牙，然后选择 Moduware Speaker 并且关闭“通话音频” ",
     "button": "连接"
   },
 
   "main": {
-    "start": "要开始使用speaker模块, 请先打开",
+    "start": "请开启扬声器模块以使用",
     "turnOn": "插入时开启"
   }
 }

@@ -11,6 +11,28 @@
 
   },
 
+  "gateway": {
+		"connectionFailed": "Failed to establish connection, please try again",
+		"noFirmwareInstalled": "The connected Moduware device doesn't have a firmware installed, you can install it from Settings -> Updates",
+		"editDeviceNameLabel": "Edit device name",
+		"emptyDeviceName": "Device name cannot be empty!",
+		"deviceNameLengthValidationMessage": "Device name cannot be longer than 18 characters or shorter than 3.",
+		"renameDeviceSuccessMessage": "Because of Bluetooth name cache you may need to restart your Moduware device and your phone to see name change.",
+		"renameDeviceErrorMessage": "There was an error during name change, name may not be set.",
+		"moduleNotRecognized": "The module you plugged in wasn't recognized, please unplug it and plug it again",
+		"connectionLost": "Connection to gateway is lost"
+	},
+
+	"firmware": {
+		"flashFirmwareError": "Something went wrong, please try again",
+		"blockingProcessWarning": "Do not close this app or turn off your device",
+		"upgradeInProgress": "Firmware upgrade in progress",
+		"bluetoothUpgradeInProgress": "Bluetooth firmware upgrade in progress",
+		"moduleFirmwareFlashed": "Module firmware flashed successfuly",
+		"gatewayFirmwareFlashed": "Firmware flashed successfuly",
+		"bluetoothFirmwareFlashed": "Bluetooth firmware flashed successfuly"
+	},
+
   "dashboard": {
 
     "header": {
