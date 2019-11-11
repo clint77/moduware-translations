@@ -11,6 +11,28 @@
 
   },
 
+  "gateway": {
+		"connectionFailed": "无法连接，请重试",
+		"noFirmwareInstalled": "已连接的Moduaware设备尚未安装固件，您可以在 设置->更新 中安装",
+		"editDeviceNameLabel": "编辑设备名称",
+		"emptyDeviceName": "设备名称不能为空！",
+		"deviceNameLengthValidationMessage": "设备名称不能多于18个字符或少于3个字符",
+		"renameDeviceSuccessMessage": "由于蓝牙缓存，您需要重启Moduware设备和手机来来查看修改的名称",
+		"renameDeviceErrorMessage": "修改名称时出错，您更改的名称可能没有储存",
+		"moduleNotRecognized": "无法识别您插入的模块，请拔出并重试",
+		"connectionLost": "与网关的连接已断开"
+	},
+
+	"firmware": {
+		"flashFirmwareError": "出现错误，请重试",
+		"blockingProcessWarning": "请不要退出软件或关闭您的设备",
+		"upgradeInProgress": "正在更新固件",
+		"bluetoothUpgradeInProgress": "正在更新蓝牙固件",
+		"moduleFirmwareFlashed": "模块固件更新成功",
+		"gatewayFirmwareFlashed": "固件更新成功",
+		"bluetoothFirmwareFlashed": "蓝牙固件更新成功"
+	},
+
   "dashboard": {
 
     "header": {
@@ -20,27 +42,27 @@
 
     "disconnected": {
       "title": "向左滑动!",
-      "message": "让我们将您的Moduware设备连接到手机！ 要管理连接和设备，请使用边侧栏。",
+      "message": "让我们将您的Moduware设备连接到手机！ 请使用侧边栏来管理连接和设备",
       "button": "查找设备"
     },
 
     "connecting": {
-      "title": "连接",
-      "message": "连接到您的设备"
+      "title": "正在连接",
+      "message": "正在连接到您的设备"
     },
 
     "autoconnecting": {
       "title": "自动连接",
-      "message": "连接到您的设备。 您可以在设置中管理配对的设备。"
+      "message": "正在连接到您的设备。您可以在设置中管理已配对的设备"
     },
 
     "connected": {
-      "editInstructions": "想要切换不同的Tile, 请点击对应的模块。"
+      "editInstructions": "想要切换不同的图块, 请点击对应的模块"
     },
 
     "initializing": {
       "title": "初始化模块",
-      "message": "初始化所有模块将花费几秒钟。"
+      "message": "初始化所有模块需要几秒钟"
     }
   },
 
@@ -75,29 +97,48 @@
 
   "updates": {
     "checking": {
-      "title": "检查更新",
-      "message": "检查新的更新将花费几秒钟。"
+      "title": "正在检查更新",
+      "message": "检查更新需要几秒钟。"
     },
     "pending": "待定",
     "noUpdates": {
-      "title": "没有可用的新的更新",
+      "title": "没有可用的更新",
       "message": "您已为当前配置安装了最新版本的软件"
-    }
+    },
+    "updateError": "更新失败，请重试",
+    "checkInProgress": "正在检查更新"
   },
 
   "pairedDevices": {
-    "title": "已配对设备"
+    "title": "已配对设备",
+    "unpair": "取消配对",
+    "unpairError": "取消配对时出现错误，请重试"
   },
 
   "tiles": {
-    "title": "可用的Tiles",
-    "instruction": "选择您要切换到的Tile。"
+    "title": "可用的图块",
+    "instruction": "请选择切换至哪个图块",
+    "delete": "删除",
+    "installing": "正在初始化",
+    "changeSelectedTile": "请先更改选中的图块",
+    "cannotDeleteDeveloperTile": "无法删除开发者图块，请手动在设备存储中移除该图块文件夹",
+    "somethingWentWrong": "发生错误，请重试。",
+    "lookForInternetTile": "正在在线查找可用图块",
+    "couldNotGetInternetTiles": "无法连接，请检查网络并重试",
+    "loadingDeviceTile": "正在加载图块至您的设备",
+    "noFirmwareInstalled": "该模块未安装固件，请进入调试界面，并单击该模块的恢复稳定版固件按钮。",
+    "editLable": "编辑"
+  },
+
+  "battery": {
+    "status": "电量",
+    "charging": "正在充电"
   },
 
   "drawer": {
     "autoConnecting": {
       "title": "自动连接",
-      "message": "连接到您的设备。 您可以在设置中管理配对的设备。"
+      "message": "正在连接到您的设备。您可以在设置中管理配对设备。"
     },
 
     "disconnected": {
@@ -107,18 +148,22 @@
 
     "scanning": {
       "title": "寻找Modpack",
-      "message": "确保您的手机蓝牙和Modpack已打开"
+      "message": "确保您的手机蓝牙和Modpack已开启"
     },
 
     "notFound": {
-      "title": "没有找到设备",
-      "message": "请再试一次，确保您的Modpack已打开"
+      "title": "找不到设备",
+      "message": "请再试一次，确保您的Modpack已开启"
     },
 
     "connected": {
-      "title": "连接到",
+      "title": "已连接到",
       "buttonEdit": "编辑",
       "buttonDisconnect": "断开连接"
+    },
+
+    "devices": {
+      "title": "周围的设备"
     },
 
     "button": {
