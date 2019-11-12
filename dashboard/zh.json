@@ -120,7 +120,7 @@
     "instruction": "请选择切换至哪个图块",
     "delete": "删除",
     "installing": "正在初始化",
-    "changeSelectedTile": "请先更改选中的图块",
+    "changeSelectedTile": "无法删除正在使用的图块，请先选中其他图块",
     "cannotDeleteDeveloperTile": "无法删除开发者图块，请手动在设备存储中移除该图块文件夹",
     "somethingWentWrong": "发生错误，请重试。",
     "lookForInternetTile": "正在在线查找可用图块",

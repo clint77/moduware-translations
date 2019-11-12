@@ -33,7 +33,7 @@
   "history": {
     "placeholder": {
       "title": "尚无保存的测量值",
-      "message": "时间轴将显示您的测量记录"
+      "message": "您可以在时间轴上查看测量记录"
     },
     "list": {
       "temperature": "温度",
