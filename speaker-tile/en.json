@@ -2,6 +2,7 @@
   "instructions": {
     "header": "IMPORTANT",
     "warning": "We have a bug. On your first connection of speaker module, your phone will redial your last caller.",
+    "connect": "To connect speaker module go to settings -> bluetooth, then pair Moduware speaker",
     "steps": "To ensure this only happens once go to settings -> connections -> bluetooth, then select Moduware Speaker and switch off call audio",
     "button": "Connect"
   },

@@ -36,6 +36,7 @@
       "message": "您可以在时间轴上查看测量记录"
     },
     "list": {
+      "unlabeled": "未贴标签",
       "temperature": "温度",
       "humidity": "湿度",
       "today": "今天",

@@ -1,6 +1,7 @@
 {
   "main": {
     "modes": "Modes",
+    "led":"LED",
     "pallet": {
       "title": "Simple Pallet",
       "description": "5 simple colors to chose"

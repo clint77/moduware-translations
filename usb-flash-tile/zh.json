@@ -5,8 +5,8 @@
       "connect": "连接",
       "connecting": "正在连接",
       "disconnect": "断开",
-      "disconnecting": "正在断开"
-
+      "disconnecting": "正在断开",
+      "file-manager":"打开文件管理器"
     }
   }
 }
