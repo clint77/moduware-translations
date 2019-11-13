@@ -5,8 +5,8 @@
       "connect": "Connect",
       "connecting": "Connecting",
       "disconnect": "Disconnect",
-      "disconnecting": "Disconnecting"
-
+      "disconnecting": "Disconnecting",
+      "file-manager":"Open File Manager"
     }
   }
 }
